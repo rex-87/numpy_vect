@@ -71,7 +71,7 @@ try:
 	v_int_to_unit = np.vectorize(int_to_unit)
 	
 	# numpy array size
-	ss = 5000000
+	ss = 1000000
 	print("numpy array size: {}".format(ss))
 	
 	# compute results
